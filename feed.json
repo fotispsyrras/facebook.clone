@@ -1,0 +1,105 @@
+{
+    "posts": [
+        {
+            "id": 1001101,
+            "date": "18 December 2019",
+            "content": [ 
+                "We are proud to announce that PeopleCert, in partnership with LanguageCert and Prometric, has been awarded a multi-year agreement with UK Visas and Immigration (UKVI) to deliver Home Office approved Secure English Language Tests (SELT) in the UK and globally! LanguageCert SELT exams are scheduled for global rollout in April 2020, catering for all visa type requirements where valid proof of English language ability is required.",
+
+                "Dr Mike Milanovic, Chairman of the LanguageCert Board of Directors commented: “Being chosen as an Approved SELT Provider by UKVI further validates our ability and commitment to the provision of excellence. The agreement with UKVI spearheads a new era for secure, innovative and user-friendly English language exams for those seeking to live, study and work in the UK. We are delighted with the outcome and look forward to our global rollout in April 2020!”.",
+                
+                "Stay tuned for more information!",
+
+                "Read more in the Press Release: http: //bit.ly/2tpHycs 8 shares"
+            ],
+            "likes": 72,
+            "shares": 0,
+            "tags": [],
+            "img": "https://raw.githubusercontent.com/kostasx/EventLoop/master/Miscellaneous/exercises/react/facebook/1.jpg"
+        },
+        {
+            "id": 1001102,
+            "date": "29 May 2019",
+            "content": [ 
+                "PeopleCert Founder & CEO, Byron Nicolaides, participated at the first digital Delphi Economic Forum, on how digital transformation can help businesses cope moving forward. Among other issues, he referred to how quickly PeopleCert adapted to the new reality. 'Tele-working began early on, ensuring our staff remains safe and the capacity for online proctored exams increased to cater for every individual that wants a professional or language qualification' he mentioned.",
+                "Watch the discussion here: https://bit.ly/2TR31FG"
+            ],
+            "likes": 14,
+            "shares": 1,
+            "tags":[
+        
+            ],
+            "img":"https://raw.githubusercontent.com/kostasx/EventLoop/master/Miscellaneous/exercises/react/facebook/2.jpg"
+        },
+        {
+            "id": 1001103,
+            "date": "29 June at 06:46",
+            "content":[
+                "Get certified whenever, wherever!",
+                "With PeopleCert Online Proctoring, exams work like magic! Our sophisticated technology lets you get certified from the comfort of your own home or office, in a secure and reliable way, with fast results, 24/7 customer support, and flexible booking.",
+                "Become part of the new online exam revolution today.",
+                "Click here for more information: https://bit.ly/3a7YVyX"
+            ],
+            "likes": 16,
+            "shares": 3,
+            "tags":[
+        
+            ],
+            "img":"https://raw.githubusercontent.com/kostasx/EventLoop/master/Miscellaneous/exercises/react/facebook/3.jpg"
+        },
+        {
+            "id": 1001104,
+            "date": "23 June at 05:56",
+            "content":[
+                "Join us at the EduPlus’ Online Summit on Wednesday the 24th June and Thursday the 25th June where Oğuz Emran, PeopleCert Business Development Manager for Turkey, will be delivering a presentation called “New Generation Tools for assessing and certifying skills required in the digital age”",
+                "24th June will be the Management Online Summit",
+                "https://bit.ly/37TLSAP",
+                "25th June will be the HR Management and Digitisation Online Summit",
+                "https://bit.ly/3ewtbWw"
+            ],
+            "likes": 10,
+            "shares": 2,
+            "tags":[
+                "eduplus"
+            ],
+            "img":"https://raw.githubusercontent.com/kostasx/EventLoop/master/Miscellaneous/exercises/react/facebook/4.jpg"
+        },
+        {
+            "id": 1001105,
+            "date": "19 June at 08:40",
+            "content":[
+                "Can’t get to an exam centre to take your professional certification exam?",
+                "PeopleCert Online Proctored exams provide a secure and stress-free way to take your exam from the location of your choice!",
+                "Enjoy flexible and speedy booking, a reliable exam process and customer support 24/7/365.",
+                "For more information, click here: https://bit.ly/3fBWDur"
+
+            ],
+            "likes": 14,
+            "shares": 5,
+            "tags":[
+        
+            ],
+            "img":"https://raw.githubusercontent.com/kostasx/EventLoop/master/Miscellaneous/exercises/react/facebook/5.jpg"
+        },
+        {
+            "id": 1001106,
+            "date": "16 June at 08:08",
+            "content":[
+                "Welcome the new generation of online exams!",
+                "With PeopleCert Online Proctored exams, you can get certified anytime, anyplace! Just download our secure exam software, compatible with both Windows and Mac, find a quiet room with an internet connection and get ready to certify your IT and Project Management skills with:",
+                "- Award-winning exam administration technology",
+                "- Flexible booking",
+                "- 24/7 customer support",
+                "- Fast results",
+                "Find out why 99% of our past candidates say they would use PeopleCert Online Proctoring again.",
+                "Click here for more information: https://bit.ly/3a7YVyX"
+            ],
+            "likes": 23,
+            "shares": 0,
+            "tags":[
+        
+            ],
+            "img":"https://raw.githubusercontent.com/kostasx/EventLoop/master/Miscellaneous/exercises/react/facebook/6.jpg"
+        }
+    ]
+}
