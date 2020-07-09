@@ -14,14 +14,16 @@ class Post extends React.Component {
     img:'',
     show: false
   }
-
+  
+  // changeLikes = ()=>{
+  //   this.setState({likes: this.state.likes +1})
+  // }
   componentDidMount(){
     
       
       this.setState((prevState)=>{
           return {
             likes: this.props.likes,
-            alpha: 0,
             date:this.props.date,
             id:this.props.id,
             content:this.props.content,
@@ -32,12 +34,12 @@ class Post extends React.Component {
       })
     }
  
-
+//thelei mesa se didmount?
   like = ()=> {
     this.setState({ 
       likes: this.state.likes + 1,
-      alpha: 8 
     });
+    this.props.changeParentLikes()
   }
 
   share = ()=> {

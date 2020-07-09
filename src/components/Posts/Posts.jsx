@@ -3,14 +3,25 @@ import Post from './Post.jsx'
 
 class Posts extends Component {
 
-    constructor(props) {
-        super(props);
-    }
+    // constructor(props) {
+    //     super(props);
+    // }
 
     state = {
-        posts: []
+        posts: [],
+        totalLikes:0
     };
 
+    
+    componentDidMount(){
+      this.state.posts.map((element) => {
+        this.setState ({totalLikes:this.state.totalLikes + element.likes})
+      });
+    }
+  //  console.log(this.state.totalLikes)
+   changeParentLikes =(event)=>{
+     this.setState({likes: this.state.likes+1})
+   }
 
     componentDidMount() {
 
@@ -45,11 +56,13 @@ class Posts extends Component {
         console.log(posts)
         return (
             <> 
+              <p>totalLikes: {posts.totalLikes}</p>
               {posts.map( (post)=>{ 
                   
                     
                     return <Post
                       key={posts.id}
+                      changeParentLike={this.changeParentLikes}
                       // θα μπορουσα ολα μαζι τα υπολοιπα data={posts}
                       id={post.id} 
                       date={post.date}
